@@ -90,11 +90,9 @@ GEM
     multi_json (1.12.1)
     multi_xml (0.5.5)
     nio4r (1.2.1)
-    nokogiri (1.6.8)
+    nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
-      pkg-config (~> 1.1.7)
     pg (0.18.4)
-    pkg-config (1.1.7)
     puma (3.4.0)
     rack (2.0.1)
     rack-test (0.6.3)
@@ -202,4 +200,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.13.2
+   1.13.5
